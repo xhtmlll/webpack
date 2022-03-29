@@ -1,0 +1,16 @@
+{
+    "name": "webpack",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "wp": "webpack",
+        "start": "http-server",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+        "http-server": "^14.1.0"
+    }
+}
